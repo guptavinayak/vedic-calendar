@@ -4,62 +4,6 @@ PRODID:-//Vedic Kshoura Karma Calendar//EN
 X-WR-CALNAME:Vedic Grooming Windows
 BEGIN:VEVENT
 SUMMARY:Vedic Grooming Window (Haircut / Shave / Nails)
-DTSTART:20261002T083000
-DTEND:20261002T103000
-DESCRIPTION:Auspicious Friday (Shukravara). Tithi: 21. Concludes before Ra
- hu Kaal (~11:00 AM).
-LOCATION:Pune\, Maharashtra\, India
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kalashtami (Krishna Ashtami)
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-DESCRIPTION:Kalashtami (Krishna Ashtami). Approximate tithi: Krishna Ashta
- mi. Confirm the local sunrise-based date before observing.
-LOCATION:Pune\, Maharashtra\, India
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ekadashi (Krishna Paksha)
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-DESCRIPTION:Ekadashi (Krishna Paksha). Approximate tithi: Krishna Ekadashi
- . Confirm the local sunrise-based date before observing.
-LOCATION:Pune\, Maharashtra\, India
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vedic Grooming Window (Haircut / Shave / Nails)
-DTSTART:20261007T093000
-DTEND:20261007T113000
-DESCRIPTION:Auspicious Wednesday (Budhavara). Tithi: 26. Concludes before 
- Rahu Kaal (~12:30 PM).
-LOCATION:Pune\, Maharashtra\, India
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vedic Grooming Window (Haircut / Shave / Nails)
-DTSTART:20261009T083000
-DTEND:20261009T103000
-DESCRIPTION:Auspicious Friday (Shukravara). Tithi: 28. Concludes before Ra
- hu Kaal (~11:00 AM).
-LOCATION:Pune\, Maharashtra\, India
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chaturdashi (Krishna Paksha)
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-DESCRIPTION:Chaturdashi (Krishna Paksha). Approximate tithi: Krishna Chatu
- rdashi. Confirm the local sunrise-based date before observing.
-LOCATION:Pune\, Maharashtra\, India
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vedic Grooming Window (Haircut / Shave / Nails)
-DTSTART:20261014T093000
-DTEND:20261014T113000
-DESCRIPTION:Auspicious Wednesday (Budhavara). Tithi: 4. Concludes before R
- ahu Kaal (~12:30 PM).
-LOCATION:Pune\, Maharashtra\, India
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vedic Grooming Window (Haircut / Shave / Nails)
 DTSTART:20261016T083000
 DTEND:20261016T103000
 DESCRIPTION:Auspicious Friday (Shukravara). Tithi: 6. Concludes before Rah
@@ -600,6 +544,62 @@ DTSTART:20270326T083000
 DTEND:20270326T103000
 DESCRIPTION:Auspicious Friday (Shukravara). Tithi: 19. Concludes before Ra
  hu Kaal (~11:00 AM).
+LOCATION:Pune\, Maharashtra\, India
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kalashtami (Krishna Ashtami)
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+DESCRIPTION:Kalashtami (Krishna Ashtami). Approximate tithi: Krishna Ashta
+ mi. Confirm the local sunrise-based date before observing.
+LOCATION:Pune\, Maharashtra\, India
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vedic Grooming Window (Haircut / Shave / Nails)
+DTSTART:20270331T093000
+DTEND:20270331T113000
+DESCRIPTION:Auspicious Wednesday (Budhavara). Tithi: 24. Concludes before 
+ Rahu Kaal (~12:30 PM).
+LOCATION:Pune\, Maharashtra\, India
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ekadashi (Krishna Paksha)
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+DESCRIPTION:Ekadashi (Krishna Paksha). Approximate tithi: Krishna Ekadashi
+ . Confirm the local sunrise-based date before observing.
+LOCATION:Pune\, Maharashtra\, India
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vedic Grooming Window (Haircut / Shave / Nails)
+DTSTART:20270402T083000
+DTEND:20270402T103000
+DESCRIPTION:Auspicious Friday (Shukravara). Tithi: 26. Concludes before Ra
+ hu Kaal (~11:00 AM).
+LOCATION:Pune\, Maharashtra\, India
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chaturdashi (Krishna Paksha)
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+DESCRIPTION:Chaturdashi (Krishna Paksha). Approximate tithi: Krishna Chatu
+ rdashi. Confirm the local sunrise-based date before observing.
+LOCATION:Pune\, Maharashtra\, India
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vedic Grooming Window (Haircut / Shave / Nails)
+DTSTART:20270407T093000
+DTEND:20270407T113000
+DESCRIPTION:Auspicious Wednesday (Budhavara). Tithi: 1. Concludes before R
+ ahu Kaal (~12:30 PM).
+LOCATION:Pune\, Maharashtra\, India
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vedic Grooming Window (Haircut / Shave / Nails)
+DTSTART:20270409T083000
+DTEND:20270409T103000
+DESCRIPTION:Auspicious Friday (Shukravara). Tithi: 3. Concludes before Rah
+ u Kaal (~11:00 AM).
 LOCATION:Pune\, Maharashtra\, India
 END:VEVENT
 END:VCALENDAR
